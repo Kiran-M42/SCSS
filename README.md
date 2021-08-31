@@ -1,4 +1,4 @@
-# SCSS-
+# SCSS
 
 Variables
 nested rules
